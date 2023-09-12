@@ -1,4 +1,4 @@
-module github.com/RekeningkuDev/flagr-caddy-ext
+module github.com/stevancris/caddy-ext
 
 go 1.20
 

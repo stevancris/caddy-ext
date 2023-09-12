@@ -13,7 +13,7 @@ import (
 	"github.com/openflagr/flagr/swagger_gen/models"
 	"go.uber.org/zap"
 
-	"github.com/RekeningkuDev/flagr-caddy-ext/evaluator"
+	"github.com/stevancris/caddy-ext/evaluator"
 )
 
 var (

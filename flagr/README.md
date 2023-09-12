@@ -6,7 +6,7 @@ A Caddy v2 extension to apply [Feature Flags][1] for HTTP requests by using [Fla
 ## Installation
 
 ```bash
-$ xcaddy build --with github.com/RekeningkuDev/flagr-caddy-ext
+$ xcaddy build --with github.com/stevancris/caddy-ext
 ```
 
 ## Caddyfile Syntax
