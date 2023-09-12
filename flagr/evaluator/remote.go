@@ -4,8 +4,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/checkr/flagr/swagger_gen/models"
-	"github.com/checkr/goflagr"
+	"github.com/checkr/goflagr" // TODO: replace to "github.com/openflagr/goflagr"
+	"github.com/openflagr/flagr/swagger_gen/models"
 )
 
 var (

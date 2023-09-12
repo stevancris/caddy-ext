@@ -10,10 +10,10 @@ import (
 
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
-	"github.com/checkr/flagr/swagger_gen/models"
+	"github.com/openflagr/flagr/swagger_gen/models"
 	"go.uber.org/zap"
 
-	"github.com/RussellLuo/caddy-ext/flagr/evaluator"
+	"github.com/RekeningkuDev/flagr-caddy-ext/evaluator"
 )
 
 var (

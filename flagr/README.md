@@ -6,7 +6,7 @@ A Caddy v2 extension to apply [Feature Flags][1] for HTTP requests by using [Fla
 ## Installation
 
 ```bash
-$ xcaddy build --with github.com/RussellLuo/caddy-ext/flagr
+$ xcaddy build --with github.com/RekeningkuDev/flagr-caddy-ext
 ```
 
 ## Caddyfile Syntax
@@ -154,8 +154,8 @@ Transfer/sec:      0.87MB
 
 
 [1]: https://martinfowler.com/articles/feature-toggles.html
-[2]: https://github.com/checkr/flagr
-[3]: https://checkr.github.io/flagr/api_docs/#operation/postEvaluation
+[2]: https://github.com/openflagr/flagr
+[3]: https://openflagr.github.io/flagr/api_docs/#operation/postEvaluation
 [4]: https://caddyserver.com/docs/caddyfile/concepts#placeholders
-[5]: https://checkr.github.io/flagr/#/home?id=run
+[5]: https://openflagr.github.io/flagr/#/home?id=run
 [6]: https://github.com/wg/wrk
